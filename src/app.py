@@ -29,8 +29,6 @@ unsplash_access_key = st.text_input("Unsplash Access Key (for Unsplash)", type="
 
 
 # --- Main Logic Section ---
-
-# --- Main Logic Section ---
 if st.button("Generate & Schedule"):
     # --- Text Generation (Ollama) ---
     generator = ContentGeneratorAgent(model="llama2")
@@ -71,7 +69,5 @@ if st.button("Generate & Schedule"):
 
     st.subheader("Scheduling Result")
     st.write(scheduled)
-
-# --- End of App ---
 
 # --- End of App ---

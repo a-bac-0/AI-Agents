@@ -12,7 +12,7 @@ with open(image_path, "wb") as f:
 caption = "YOUR_GENERATED_CAPTION_HERE"  # Replace with your generated text
 
 # --- Step 3: Login and post to Instagram ---
-username = "mango_and_limes"
+username = "YOUR_INSTAGRAM_USERNAME"
 password = "YOUR_INSTAGRAM_PASSWORD"
 
 cl = Client()
