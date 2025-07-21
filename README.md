@@ -1,6 +1,6 @@
 # Social Media Scheduler Multi-Agent System
 
-## Masterclass: AI Agents for Content Automation
+## AI Agents for Content Automation
 
 ### 1. Brief History & Evolution of AI Agents
 
@@ -46,7 +46,7 @@
 
 ```bash
 # Clone the repo
-git clone <repo-url>
+git clone https://github.com/a-bac-0/AI-Agents.git
 cd ai_agents
 # Install dependencies
 pip install -r requirements.txt
@@ -116,10 +116,6 @@ src/
   prompts.py       # Prompt templates
   utils.py         # Helper functions
 requirements.txt
-Dockerfile
-kanban/            # Project management resources
-slides/            # Masterclass slides (optional)
-docs/              # Extra documentation
 ```
 
 ### 6. Extension Ideas
