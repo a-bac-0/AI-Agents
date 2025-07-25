@@ -1,4 +1,0 @@
-streamlit
-langchain
-crewai
-ollama
